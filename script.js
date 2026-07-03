@@ -1,3 +1,5 @@
+Telegram.WebApp.ready();
+Telegram.WebApp.expand();
 document.getElementById("startBtn").addEventListener("click", function () {
     alert("Start Task clicked!");
 });
