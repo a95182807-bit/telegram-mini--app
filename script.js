@@ -14,3 +14,10 @@ document.getElementById("startBtn").addEventListener("click", function () {
 document.getElementById("withdrawBtn").addEventListener("click", function () {
     alert("Withdraw clicked!");
 });
+document.getElementById("bonusBtn").addEventListener("click", function () {
+
+    show_11235103().then(() => {
+        alert("You have seen an ad!");
+    });
+
+});
