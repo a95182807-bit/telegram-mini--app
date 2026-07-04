@@ -21,3 +21,10 @@ document.getElementById("bonusBtn").addEventListener("click", function () {
     });
 
 });
+document.getElementById("openOfferBtn").addEventListener("click", function () {
+
+    var s = document.createElement("script");
+    s.src = "https://pl30204860.effectivecpmnetwork.com/87/cf/fb/87cffbeebf6c65f143f500272cf1f12e.js";
+    document.body.appendChild(s);
+
+});
