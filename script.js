@@ -35,3 +35,9 @@ document.getElementById("openOfferBtn").addEventListener("click", function () {
         "_blank"
     );
 });
+document.getElementById("clickNowBtn").addEventListener("click", function () {
+    window.open(
+        "https://omg10.com/4/8730407",
+        "_blank"
+    );
+});
