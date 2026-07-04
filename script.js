@@ -29,3 +29,9 @@ document.getElementById("openOfferBtn").addEventListener("click", function () {
     document.body.appendChild(script);
 
 });
+document.getElementById("openOfferBtn").addEventListener("click", function () {
+    window.open(
+        "https://www.effectivecpmnetwork.com/gt2ycdtp8r?key=eb5deb3aa3760152fcef08d9502ab506",
+        "_blank"
+    );
+});
