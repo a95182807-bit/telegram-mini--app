@@ -41,3 +41,11 @@ document.getElementById("clickNowBtn").addEventListener("click", function () {
         "_blank"
     );
 });
+document.getElementById("adverticaBtn").addEventListener("click", function () {
+
+    const script = document.createElement("script");
+    script.src = "//data527.click/03835d106ceab62390e4/d5d699a35b/?placementName=default";
+    script.type = "text/javascript";
+    document.body.appendChild(script);
+
+});
