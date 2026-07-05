@@ -49,3 +49,9 @@ document.getElementById("adverticaBtn").addEventListener("click", function () {
     document.body.appendChild(script);
 
 });
+document.getElementById("directLinkBtn").addEventListener("click", function () {
+    window.open(
+        "https://data527.click/0d654b4d53c013131ebc/c1c3f01cdf/?placementName=default",
+        "_blank"
+    );
+});
